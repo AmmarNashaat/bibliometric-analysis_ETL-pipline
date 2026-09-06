@@ -1,4 +1,10 @@
-## Summary
+# Unified WoS-Style Bibliographic ETL Pipeline & Engine Patch
+
+[![Python 3.10+](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python&logoColor=white)](https://www.python.org/)
+[![Framework: Pandas](https://img.shields.io/badge/Framework-Pandas-150458?logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+[![Visualization: Plotly](https://img.shields.io/badge/Visualization-Plotly-3F4F75?logo=plotly&logoColor=white)](https://plotly.com/)
+[![Notebook: Jupyter](https://img.shields.io/badge/Validation-Jupyter-F37626?logo=jupyter&logoColor=white)](https://jupyter.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 This PR implements a **complete ETL (Extract → Transform → Validate → Load) pipeline** that transforms heterogeneous bibliographic data from multiple sources into a unified WoS-style schema. 
 
