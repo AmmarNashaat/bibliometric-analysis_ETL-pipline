@@ -10,6 +10,10 @@ This PR implements a **complete ETL (Extract → Transform → Validate → Load
 
 The pipeline replaces the legacy procedural formatting logic with a declarative, extensible architecture.
 
+**Author:** Ammar Gharaf
+
+**Under supervision of:** Prof, Vincenzo Moscato
+
 ## Architecture
 
 ### Declarative Mapping Strategy
